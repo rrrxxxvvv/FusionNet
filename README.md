@@ -27,8 +27,4 @@ The following open-source datasets were used for training and evaluation of Fusi
 
 ### Code Availability
 
-The FusionNet implementation will be made available on GitHub upon request. Please contact the corresponding author for access.
-
-### Data Usage
-
-When using the public datasets mentioned above, please cite the original papers and follow their respective licensing agreements.
+The FusionNet implementation will be made available on GitHub upon request.
