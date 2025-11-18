@@ -1,4 +1,4 @@
-# FusionNet: Graph Neural Network for Feature Recognition
+# Multi-Scale Information Aggregation in Graph Neural Networks for Manufacturing Feature Recognition
 
 ## Data Availability Statement
 
